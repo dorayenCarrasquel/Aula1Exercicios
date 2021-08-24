@@ -13,5 +13,7 @@ public class Exercicio2 {
 
     // Resultados da Media
         System.out.println("Suas notas este semestre foram " +nota1 +", " +nota2 +", " +nota3 +" e " + nota4);
+        System.out.println("A soma das notas: "+somaNotas);
+        System.out.println("Por ende a media do semestre foi: " +media);
     }
 }
