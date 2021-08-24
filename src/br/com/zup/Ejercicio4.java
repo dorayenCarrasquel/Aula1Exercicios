@@ -10,6 +10,7 @@ public class Ejercicio4 {
         float salarioBruto = valorHora * horasTrabalhadas;
 
         //Resultados para o usuário
-
+        System.out.println("Foram " + horasTrabalhadas +"hras trabalhadas durante este mês e você recebe R$" +valorHora);
+        System.out.println("O salario deste mês é: R$" +salarioBruto);
     }
 }
