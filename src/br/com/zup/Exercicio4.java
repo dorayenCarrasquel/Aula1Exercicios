@@ -1,6 +1,6 @@
 package br.com.zup;
 
-public class Ejercicio4 {
+public class Exercicio4 {
     public static void main(String[] args) {
         //Adicionando as variáveis
         int horasTrabalhadas = 40;
