@@ -6,6 +6,10 @@ public class Ejercicio4 {
         int horasTrabalhadas = 40;
         float valorHora = 10.5F;
 
+        //Operação
+        float salarioBruto = valorHora * horasTrabalhadas;
+
+        //Resultados para o usuário
 
     }
 }
